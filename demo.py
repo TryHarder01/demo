@@ -1,5 +1,5 @@
 def main():
     print("hello world")
-    print("good night moon")
+    print("good knight moon")
 
 main()
