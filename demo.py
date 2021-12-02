@@ -1,5 +1,5 @@
 def main():
-    print("I am a night")
+    print("I am a knight")
     print("hello world")
 
 main()
